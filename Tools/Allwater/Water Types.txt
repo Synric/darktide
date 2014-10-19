@@ -1,0 +1,26 @@
+1 - River Water
+2 - Ocean
+3 - Magma
+4 - Slime
+5 - Slow Water
+6 - Slow Ocean
+7 - Slow Magma
+8 - Slow Slime
+9 - Fast Water
+10 - Fast Ocean
+11 - Fast Magma
+12 - Fast Slime
+13 - WMO Water
+14 - WMO Ocean
+15 - Green Lava
+17 - WMO Water - Interior
+19 - WMO Magma
+20 - WMO Slime
+21 - Naxxramas - Slime
+41 - Coilfang Raid - Water
+61 - Hyjal Past - Water
+81 - Lake Wintergrasp - Water
+100 - Basic Procedural Water
+121 - CoA Black - Magma
+141 - Chamber Magma
+181 - Orange Slime

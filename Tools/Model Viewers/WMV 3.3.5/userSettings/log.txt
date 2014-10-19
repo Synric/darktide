@@ -1,0 +1,1025 @@
+20:11:54: Starting:
+World of Warcraft Model Viewer v0.7.0.1 r142 Windows 32-bit
+
+
+20:11:54: Initiating Objects...
+20:11:54: Creating Anim Control...
+20:11:54: Creating Char Control...
+20:11:54: Creating Light Control...
+20:11:54: Creating Model Control...
+20:11:54: Creating Settings Control...
+20:11:54: Creating Model Bank Control...
+20:11:54: Creating Model Opened...
+20:11:54: Creating Model Export Options Control...
+20:11:54: Creating OpenGL Canvas...
+20:11:54: Initiating OpenGL...
+20:11:54: Info: GLEW successfully initiated.
+
+20:11:54: Video Renderer: AMD Radeon HD 6800 Series 
+20:11:54: Video Vendor: ATI Technologies Inc.
+20:11:54: Driver Version: 4.0.10243 Compatibility Profile Context
+20:11:54: Support wglPixelFormat: true
+20:11:54: Support Texture Compression: true
+20:11:54: Support Multi-Textures: true
+20:11:54: Support Draw Range Elements: true
+20:11:54: Support Vertex Buffer Objects: true
+20:11:54: Support Point Sprites: true
+20:11:54: Support Pixel Shaders: true
+20:11:54: Support Vertex Shaders: true
+20:11:54: Support GLSL: true
+20:11:54: Support Anti-Aliasing: true
+20:11:54: Support Pixel Buffer Objects: true
+20:11:54: Support Frame Buffer Objects: true
+20:11:54: Support Non-Power-of-Two: true
+20:11:54: Support Rectangle Textures: true
+20:11:54: Support OpenGL 2.0: true
+20:11:54: Max Rectangle Texture Size Supported: 16384
+20:11:54: Max Texture Size Supported: 16384
+
+20:11:55: Loading Session settings from: F:\WoWModding\Tools\WoWModelViewer7/userSettings/Config.ini
+
+20:11:55: Initiating File Menu..
+20:11:55: Initiating GUI Docking.
+20:11:55: Max Lights used: 4
+20:11:55: Setting OpenGL render state...
+20:11:55: Initiating Archives...
+
+20:11:55: Game Data Path: F:\WoWModding\Client335aTest\Data\
+20:11:55: Use Local Files: false
+
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch-6.MPQ
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch-5.MPQ
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch-4.MPQ
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch-3.MPQ
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch-2.MPQ
+20:11:55: Opening F:\WoWModding\Client335aTest\Data\patch.MPQ
+20:11:56: Opening F:\WoWModding\Client335aTest\Data\lichking.MPQ
+20:11:56: Opening F:\WoWModding\Client335aTest\Data\expansion.MPQ
+20:11:56: Opening F:\WoWModding\Client335aTest\Data\common-2.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\common.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\patch-deDE-3.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\patch-deDE-2.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\patch-deDE.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\lichking-locale-deDE.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\expansion-locale-deDE.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\locale-deDE.MPQ
+20:11:57: Opening F:\WoWModding\Client335aTest\Data\deDE\base-deDE.MPQ
+20:11:57: Loaded Content TOC: v3.03.00
+20:11:57: Loaded Content Version: 12340
+20:11:57: InitMPQArchives result: true
+20:11:58: Initiating Databases...
+20:11:58: Finished initiating database files.
+20:11:58: Info: GUI Layout loaded from previous session.
+20:11:58: WoW Model Viewer successfully loaded!
+----
+
+20:12:02: Loading model: Spells\Sealofwisdom_impact_base.m2
+
+20:12:02: Loading texture: PARTICLES\RIBBONBLUR1B.BLP
+20:12:02: Info: Added PARTICLES\RIBBONBLUR1B.BLP to the TextureList.
+20:12:02: Loading texture: SPELLS\RIBBONMAGIC2.BLP
+20:12:02: Info: Added SPELLS\RIBBONMAGIC2.BLP to the TextureList.
+20:12:02: Loading texture: SPELLS\RUNE8.BLP
+20:12:02: Info: Added SPELLS\RUNE8.BLP to the TextureList.
+20:12:02: Loading texture: ITEM\OBJECTCOMPONENTS\AMMO\BLUE_GLOW2.BLP
+20:12:02: Info: Added ITEM\OBJECTCOMPONENTS\AMMO\BLUE_GLOW2.BLP to the TextureList.
+20:12:02: Loading texture: SPELLS\TELEPORTTARGET.BLP
+20:12:02: Info: Added SPELLS\TELEPORTTARGET.BLP to the TextureList.
+20:12:03: Loading model: Spells\Sealofvengeance_impact_base.m2
+
+20:12:03: Loading texture: SPELLS\GRAD2B.BLP
+20:12:03: Info: Added SPELLS\GRAD2B.BLP to the TextureList.
+20:12:03: Loading texture: SPELLS\YELLOW_GLOW3A.BLP
+20:12:03: Info: Added SPELLS\YELLOW_GLOW3A.BLP to the TextureList.
+20:12:03: Loading texture: SPELLS\AURARUNE3.BLP
+20:12:03: Info: Added SPELLS\AURARUNE3.BLP to the TextureList.
+20:12:03: Loading texture: WORLD\GENERIC\ACTIVEDOODADS\SPELLPORTALS\FLARE.BLP
+20:12:03: Info: Added WORLD\GENERIC\ACTIVEDOODADS\SPELLPORTALS\FLARE.BLP to the TextureList.
+20:12:03: Loading texture: SPELLS\RIBBONNE1_RED.BLP
+20:12:03: Info: Added SPELLS\RIBBONNE1_RED.BLP to the TextureList.
+20:12:03: Loading texture: SPELLS\SHOCKWAVEWATER1.BLP
+20:12:03: Info: Added SPELLS\SHOCKWAVEWATER1.BLP to the TextureList.
+20:12:06: Loading model: World\Expansion02\doodads\generic\inscription\inscription_scroll_sealed01.m2
+
+20:12:06: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\INSCRIPTION\INSCRIPTION_SCROLLS01.BLP
+20:12:06: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\INSCRIPTION\INSCRIPTION_SCROLLS01.BLP to the TextureList.
+20:12:07: Loading model: World\Expansion02\doodads\generic\inscription\inscription_scroll_sealed02.m2
+
+20:12:07: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\INSCRIPTION\INSCRIPTION_SCROLLS01.BLP
+20:12:07: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\INSCRIPTION\INSCRIPTION_SCROLLS01.BLP to the TextureList.
+20:12:08: Loading model: World\Expansion03\doodads\generic\alliance_submarine_sealed.m2
+
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_MISC.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_MISC.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_TRIM.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_TRIM.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_WALL1.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_WALL1.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PORT.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PORT.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_WOOD.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_WOOD.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_METAL.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_METAL.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PLATE02.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PLATE02.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_CON.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_CON.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PLATE2.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PLATE2.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_RIVETED.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_RIVETED.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_GRATE.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_GRATE.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_GIRDER.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_GIRDER.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_RAMP.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_RAMP.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_MISC2.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_MISC2.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_TRIM002.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_TRIM002.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PERISCOPE.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_PERISCOPE.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_FIN.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_FIN.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_DRILL.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMEHULL_DRILL.BLP to the TextureList.
+20:12:08: Loading texture: WORLD\EXPANSION01\DOODADS\SILVERMYST\LIGHTSHAFT\LIGHTSHAFT.BLP
+20:12:08: Info: Added WORLD\EXPANSION01\DOODADS\SILVERMYST\LIGHTSHAFT\LIGHTSHAFT.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GOBLIN_SUBMARINE\TEXTURES\EB_GOBLINEHULL_TENTACLE03.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GOBLIN_SUBMARINE\TEXTURES\EB_GOBLINEHULL_TENTACLE03.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_HATCH1.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_HATCH1.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_DOOR.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_DOOR.BLP to the TextureList.
+20:12:08: Error: Could not load the texture 'DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_PIPE3.BLP'
+20:12:08: Info: Added DUNGEONS\VEHICLES\GNOMISH_SUBMARINE\TEXTURES\EB_GNOMESUB_INT_PIPE3.BLP to the TextureList.
+20:12:10: Loading model: World\Generic\human\passive doodads\drinks\drink_sealwhey_01.m2
+
+20:12:10: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIRECITADEL\PASSIVEDOODADS\BRAIZERS\SMOKE02_BLACK.BLP
+20:12:10: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIRECITADEL\PASSIVEDOODADS\BRAIZERS\SMOKE02_BLACK.BLP to the TextureList.
+20:12:10: Loading texture: World\Generic\Human\Passive Doodads\Drinks\Drink_SealWhey_01_TEX.blp
+20:12:10: Info: Added World\Generic\Human\Passive Doodads\Drinks\Drink_SealWhey_01_TEX.blp to the TextureList.
+20:12:12: Loading model: World\Goober\g_mausoleumseal.m2
+
+20:12:12: Loading texture: WORLD\GOOBER\G_MAUSOLEUMSEALGLOW.BLP
+20:12:12: Info: Added WORLD\GOOBER\G_MAUSOLEUMSEALGLOW.BLP to the TextureList.
+20:12:12: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\VIALS\WHITERINGNOISE128.BLP
+20:12:12: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\VIALS\WHITERINGNOISE128.BLP to the TextureList.
+20:12:13: Loading model: World\Goober\g_mausoleumsealtrigger.m2
+
+20:12:13: Loading texture: WORLD\GOOBER\G_MAUSOLEUMSEALTRIGGER.BLP
+20:12:13: Info: Added WORLD\GOOBER\G_MAUSOLEUMSEALTRIGGER.BLP to the TextureList.
+20:12:13: Loading texture: SPELLS\BLUE_STAR2.BLP
+20:12:13: Info: Added SPELLS\BLUE_STAR2.BLP to the TextureList.
+20:12:15: Loading model: World\Khazmodan\blackrock\activedoodads\seal\blackrockseal.m2
+
+20:12:15: Loading texture: WORLD\KHAZMODAN\BLACKROCK\ACTIVEDOODADS\SEAL\BLACKROCKSEAL01.BLP
+20:12:15: Info: Added WORLD\KHAZMODAN\BLACKROCK\ACTIVEDOODADS\SEAL\BLACKROCKSEAL01.BLP to the TextureList.
+20:12:15: Loading texture: WORLD\KHAZMODAN\BLACKROCK\ACTIVEDOODADS\SEAL\AURARUNE5.BLP
+20:12:15: Info: Added WORLD\KHAZMODAN\BLACKROCK\ACTIVEDOODADS\SEAL\AURARUNE5.BLP to the TextureList.
+20:12:15: Loading texture: CREATURE\ELEMENTALEARTH\WATERMIST.BLP
+20:12:15: Info: Added CREATURE\ELEMENTALEARTH\WATERMIST.BLP to the TextureList.
+20:12:22: Loading model: Spells\Sealofcommand_impact_base.m2
+
+20:12:22: Loading texture: SPELLS\FIRERING1A.BLP
+20:12:22: Info: Added SPELLS\FIRERING1A.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\GRAD6.BLP
+20:12:22: Info: Added SPELLS\GRAD6.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\LENSFLARE1A.BLP
+20:12:22: Info: Added SPELLS\LENSFLARE1A.BLP to the TextureList.
+20:12:22: Loading texture: CREATURE\WISP\STAR2_32.BLP
+20:12:22: Info: Added CREATURE\WISP\STAR2_32.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\STAR32.BLP
+20:12:22: Info: Added SPELLS\STAR32.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\SHOCKWAVEWATER1.BLP
+20:12:22: Info: Added SPELLS\SHOCKWAVEWATER1.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\RIBBONNE1_RED2.BLP
+20:12:22: Info: Added SPELLS\RIBBONNE1_RED2.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\YELLOW_GLOW3A.BLP
+20:12:22: Info: Added SPELLS\YELLOW_GLOW3A.BLP to the TextureList.
+20:12:22: Loading texture: WORLD\GENERIC\ACTIVEDOODADS\SPELLPORTALS\FLARE.BLP
+20:12:22: Info: Added WORLD\GENERIC\ACTIVEDOODADS\SPELLPORTALS\FLARE.BLP to the TextureList.
+20:12:22: Loading texture: SPELLS\AURARUNE_A.BLP
+20:12:22: Info: Added SPELLS\AURARUNE_A.BLP to the TextureList.
+20:12:24: Loading model: Item\Objectcomponents\weapon\misc_1h_seal_b_01.m2
+
+20:12:24: Info: Added Cape.blp to the TextureList via specialTextures.
+20:12:24: Loading texture: Item\Objectcomponents\weapon\Misc_1H_Seal_B_01Holy.blp
+20:12:24: Loading model: Item\Objectcomponents\weapon\misc_1h_seal_a_01.m2
+
+20:12:24: Info: Added Cape.blp to the TextureList via specialTextures.
+20:12:24: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+20:12:24: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList.
+20:12:24: Loading texture: Item\Objectcomponents\weapon\Misc_1H_Seal_A_01.blp
+20:12:24: Loading model: Item\Objectcomponents\weapon\misc_1h_seal_c_01.m2
+
+20:12:24: Info: Added Cape.blp to the TextureList via specialTextures.
+20:12:24: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+20:12:24: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList.
+20:12:24: Loading texture: Item\Objectcomponents\weapon\Misc_1H_Seal_C_01.blp
+20:12:27: Loading model: Creature\Sealion\sealion.m2
+
+20:12:27: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:12:27: Loading texture: Creature\Sealion\SeaLionSkin.blp
+20:12:28: Loading model: Creature\Lionseal\lionseal.m2
+
+20:12:28: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:12:28: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+20:12:28: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+20:12:28: Loading texture: Creature\Lionseal\LionSeal04.blp
+20:12:35: Loading model: World\Khazmodan\lochmodan\passivedoodads\titanruins\titanruinsblock01.m2
+
+20:12:35: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp
+20:12:35: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp to the TextureList.
+20:12:36: Loading model: World\Khazmodan\lochmodan\passivedoodads\titanruins\titanruinsblock02.m2
+
+20:12:36: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp
+20:12:36: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp to the TextureList.
+20:12:36: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\TitanWalls01.blp
+20:12:36: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\TitanWalls01.blp to the TextureList.
+20:12:38: Loading model: World\Khazmodan\blackrock\passivedoodads\doors\blackrockhugedoorsmechanismlock.m2
+
+20:12:38: Loading texture: WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISM02.BLP
+20:12:38: Info: Added WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISM02.BLP to the TextureList.
+20:12:38: Loading texture: WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISMLOCK.BLP
+20:12:38: Info: Added WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISMLOCK.BLP to the TextureList.
+20:12:42: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajruinblock03.m2
+
+20:12:42: Loading texture: WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINWALL_001.BLP
+20:12:42: Info: Added WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINWALL_001.BLP to the TextureList.
+20:12:44: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajruinblock01.m2
+
+20:12:44: Loading texture: World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_tower_trim copy.blp
+20:12:44: Info: Added World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_tower_trim copy.blp to the TextureList.
+20:12:44: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajruinblock02.m2
+
+20:12:44: Loading texture: WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_TOWER_TRIM COPY.BLP
+20:12:44: Info: Added WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_TOWER_TRIM COPY.BLP to the TextureList.
+20:12:45: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajruinblock03.m2
+
+20:12:45: Loading texture: WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINWALL_001.BLP
+20:12:45: Info: Added WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINWALL_001.BLP to the TextureList.
+20:12:47: Loading model: World\Kalimdor\diremaul\activedoodads\warlockcircle\warlockmountritualcircle01d.m2
+
+20:12:47: Loading texture: WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP
+20:12:47: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP to the TextureList.
+20:12:47: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP to the TextureList.
+20:12:47: Loading model: World\Kalimdor\diremaul\activedoodads\warlockcircle\warlockmountritualcircle01a.m2
+
+20:12:47: Loading texture: WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP
+20:12:47: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP to the TextureList.
+20:12:47: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE02.BLP to the TextureList.
+20:12:48: Loading model: World\Kalimdor\diremaul\activedoodads\warlockcircle\warlockmountritualcircle01.m2
+
+20:12:48: Loading texture: WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE01.BLP
+20:12:48: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLE01.BLP to the TextureList.
+20:12:48: Loading texture: WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLEPARTICLE.BLP
+20:12:48: Info: Added WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\WARLOCKCIRCLE\WARLOCKMOUNTRITUALCIRCLEPARTICLE.BLP to the TextureList.
+20:12:48: Loading texture: SPELLS\PURPLE_STAR.BLP
+20:12:48: Info: Added SPELLS\PURPLE_STAR.BLP to the TextureList.
+20:12:49: Loading model: World\Generic\undead\passive doodads\signs\undeadsign_lockpicking.m2
+
+20:12:49: Loading texture: World\Generic\Undead\Passive Doodads\Signs\UndeadSign_Lockpicking.blp
+20:12:49: Info: Added World\Generic\Undead\Passive Doodads\Signs\UndeadSign_Lockpicking.blp to the TextureList.
+20:12:52: Loading WMO World\Wmo\lorderon\collidabledoodads\easternplaguelands\plagueblockade\plagueblockade.wmo
+20:12:52: Loading texture: Dungeons\Textures\Rock\Jlo_Mcaveex_Rock2.Blp
+20:12:52: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin05.Blp
+20:12:52: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin03.Blp
+20:12:52: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Barrenstreebranch03_128.Blp
+20:12:52: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin06.Blp
+20:12:52: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin07.Blp
+20:12:53: Loading WMO World\Wmo\lorderon\collidabledoodads\easternplaguelands\plagueblockade\plagueblockade.wmo
+20:12:53: Loading texture: Dungeons\Textures\Rock\Jlo_Mcaveex_Rock2.Blp
+20:12:53: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin05.Blp
+20:12:53: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin03.Blp
+20:12:53: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Barrenstreebranch03_128.Blp
+20:12:53: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin06.Blp
+20:12:53: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin07.Blp
+20:12:54: Loading WMO World\Wmo\lorderon\collidabledoodads\easternplaguelands\plagueblockade\plagueblockade.wmo
+20:12:54: Loading texture: Dungeons\Textures\Rock\Jlo_Mcaveex_Rock2.Blp
+20:12:54: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin05.Blp
+20:12:54: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin03.Blp
+20:12:54: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Barrenstreebranch03_128.Blp
+20:12:54: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin06.Blp
+20:12:54: Loading texture: World\Generic\Passivedoodads\Deadtreelogs\Treebarrierskin07.Blp
+20:12:55: Loading WMO World\Wmo\exterior_designers\howlingfjord\nd_vrykul_dwelling_02_blockout.wmo
+20:12:55: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:55: Loading WMO World\Wmo\exterior_designers\howlingfjord\nd_vrykul_dwelling_02_blockout.wmo
+20:12:55: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:56: Loading WMO World\Wmo\exterior_designers\howlingfjord\nd_vrykul_dwelling_01_blockout.wmo
+20:12:56: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:56: Loading WMO World\Wmo\exterior_designers\howlingfjord\nd_vrykul_dwelling_01_blockout.wmo
+20:12:56: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:57: Loading WMO World\Wmo\exterior_designers\howlingfjord\nd_vrykul_dwelling_01_blockout.wmo
+20:12:57: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:57: Loading WMO World\Wmo\dungeon\ulduar\ulduarraidcourtyard_blockout.wmo
+20:12:57: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:57: Loading texture: Dungeons\Textures\Stormwind\Gray12.Blp
+20:12:57: Loading model: Creature\Northrendstonegiant\Northrendstonegiant.M2
+
+20:12:57: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:12:57: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+20:12:57: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+20:12:57: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:12:57: Loading texture: CREATURE\MOUNTAINGIANTOUTLAND\TUMBLINGROCK.BLP
+20:12:57: Info: Added CREATURE\MOUNTAINGIANTOUTLAND\TUMBLINGROCK.BLP to the TextureList.
+20:12:57: Loading texture: SPELLS\CLOUDS8X8.BLP
+20:12:57: Info: Added SPELLS\CLOUDS8X8.BLP to the TextureList.
+20:12:58: Loading WMO World\Wmo\dungeon\ulduar\ulduarraidcourtyard_blockout.wmo
+20:12:58: Loading texture: Dungeons\Textures\Temp\64.Blp
+20:12:58: Loading texture: Dungeons\Textures\Stormwind\Gray12.Blp
+20:12:59: Loading model: World\Khazmodan\lochmodan\passivedoodads\titanruins\titanruinsblock02.m2
+
+20:12:59: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp
+20:12:59: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp to the TextureList.
+20:12:59: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\TitanWalls01.blp
+20:12:59: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\TitanWalls01.blp to the TextureList.
+20:13:00: Loading model: World\Khazmodan\lochmodan\passivedoodads\titanruins\titanruinsblock01.m2
+
+20:13:00: Loading texture: World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp
+20:13:00: Info: Added World\KhazModan\LochModan\PassiveDoodads\TitanRuins\Pillar03.blp to the TextureList.
+20:13:01: Loading model: World\Khazmodan\blackrock\passivedoodads\doors\blackrockhugedoorsmechanismlock.m2
+
+20:13:01: Loading texture: WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISM02.BLP
+20:13:01: Info: Added WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISM02.BLP to the TextureList.
+20:13:01: Loading texture: WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISMLOCK.BLP
+20:13:01: Info: Added WORLD\KHAZMODAN\BLACKROCK\PASSIVEDOODADS\DOORS\BLACKROCKHUGEDOORSMECHANISMLOCK.BLP to the TextureList.
+20:13:08: Loading WMO Sd_rock.wmo
+20:13:08: Error: Could not load the texture 'Sd_Grass.Jpgsd_Rock.Blp'
+20:13:13: Loading model: World\Expansion03\doodads\skywall\skywall_alakirplatform_collision.m2
+
+20:13:13: Error: Could not load the texture 'DUNGEONS\TEXTURES\ULDUM\ULDUM_TRANSPARENT.BLP'
+20:13:13: Info: Added DUNGEONS\TEXTURES\ULDUM\ULDUM_TRANSPARENT.BLP to the TextureList.
+20:13:14: Loading model: World\Expansion03\doodads\skywall\skywall_boss_floor_tornado.m2
+
+20:13:14: Loading texture: SPELLS\T_VFX_SWIRL64B_A.BLP
+20:13:14: Info: Added SPELLS\T_VFX_SWIRL64B_A.BLP to the TextureList.
+20:13:14: Loading texture: SPELLS\T_VFX_FLARE05_DARK_HOLE.BLP
+20:13:14: Info: Added SPELLS\T_VFX_FLARE05_DARK_HOLE.BLP to the TextureList.
+20:13:15: Loading model: World\Expansion03\doodads\skywall\skywall_chains.m2
+
+20:13:15: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\SKYWALL_CHAINS.BLP
+20:13:15: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\SKYWALL_CHAINS.BLP to the TextureList.
+20:13:15: Error: Could not load the texture 'DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_01.BLP'
+20:13:15: Info: Added DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_01.BLP to the TextureList.
+20:13:17: Loading model: World\Expansion03\doodads\skywall\djinn\skywall_djinn_frost.m2
+
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_FLOOR.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_FLOOR.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_ALPHA.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_ALPHA.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOWFLAKE.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOWFLAKE.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_SPLASHES.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_SPLASHES.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW_PARTICLE.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW_PARTICLE.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_EDGES_ALPHA.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_EDGES_ALPHA.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW_WISPS.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_SNOW_WISPS.BLP to the TextureList.
+20:13:17: Loading texture: SPELLS\T_VFX_SMOKE_C.BLP
+20:13:17: Info: Added SPELLS\T_VFX_SMOKE_C.BLP to the TextureList.
+20:13:17: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_EDGES.BLP
+20:13:17: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\DJINN\DJINN_FROST_EDGES.BLP to the TextureList.
+20:13:19: Loading model: World\Expansion03\doodads\skywall\cloud_black\skywall_cloud_black_01.m2
+
+20:13:19: Loading texture: World\Expansion03\Doodads\Skywall\Cloud_Black\Skywall_Fog_Black_01.blp
+20:13:19: Info: Added World\Expansion03\Doodads\Skywall\Cloud_Black\Skywall_Fog_Black_01.blp to the TextureList.
+20:13:24: Loading model: World\Expansion03\doodads\skywall\buildings\skywall_building_01.m2
+
+20:13:24: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_CIRCLEGLASS.BLP
+20:13:24: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_CIRCLEGLASS.BLP to the TextureList.
+20:13:24: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP
+20:13:24: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP to the TextureList.
+20:13:25: Loading model: World\Expansion03\doodads\skywall\buildings\skywall_building_02.m2
+
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_01.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_01.BLP to the TextureList.
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\STEAM\ULDUM_FOG_SOFT_ALPHA_01.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\STEAM\ULDUM_FOG_SOFT_ALPHA_01.BLP to the TextureList.
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_02.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_02.BLP to the TextureList.
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_ALPHA_02.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_ALPHA_02.BLP to the TextureList.
+20:13:25: Loading model: World\Expansion03\doodads\skywall\buildings\skywall_building_03.m2
+
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_01.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\ULDUM_FOG_SOFT_MIST_01.BLP to the TextureList.
+20:13:25: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\STEAM\ULDUM_FOG_SOFT_ALPHA_01.BLP
+20:13:25: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\STEAM\ULDUM_FOG_SOFT_ALPHA_01.BLP to the TextureList.
+20:13:26: Loading model: World\Expansion03\doodads\skywall\buildings\skywall_building_04.m2
+
+20:13:26: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_BRIDGEGLASS.BLP
+20:13:26: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_BRIDGEGLASS.BLP to the TextureList.
+20:13:26: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP
+20:13:26: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP to the TextureList.
+20:13:26: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_GLASSFLOORTRIM.BLP
+20:13:26: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_GLASSFLOORTRIM.BLP to the TextureList.
+20:13:26: Error: Could not load the texture 'DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_05.BLP'
+20:13:26: Info: Added DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_05.BLP to the TextureList.
+20:13:27: Loading model: World\Expansion03\doodads\skywall\buildings\skywall_building_05.m2
+
+20:13:27: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_GLASSFLOORTRIM.BLP
+20:13:27: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_GLASSFLOORTRIM.BLP to the TextureList.
+20:13:27: Error: Could not load the texture 'DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_05.BLP'
+20:13:27: Info: Added DUNGEONS\TEXTURES\SKYWALL\SKYWALL_ENVREF_05.BLP to the TextureList.
+20:13:27: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_BRIDGEGLASS.BLP
+20:13:27: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_BRIDGEGLASS.BLP to the TextureList.
+20:13:27: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP
+20:13:27: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BUILDINGS\SKYWALL_ENV_GLASS.BLP to the TextureList.
+20:13:30: Loading model: World\Expansion03\doodads\skywall\bigwind\skywall_bigwind_01.m2
+
+20:13:30: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BIGWIND\WISPYSTREAK_DESATURATED.BLP
+20:13:30: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BIGWIND\WISPYSTREAK_DESATURATED.BLP to the TextureList.
+20:13:30: Loading texture: SPELLS\T_VFX_FLARE09.BLP
+20:13:30: Info: Added SPELLS\T_VFX_FLARE09.BLP to the TextureList.
+20:13:30: Loading texture: WORLD\EXPANSION03\DOODADS\SKYWALL\BIGWIND\WISPYSTREAK.BLP
+20:13:30: Info: Added WORLD\EXPANSION03\DOODADS\SKYWALL\BIGWIND\WISPYSTREAK.BLP to the TextureList.
+20:13:34: Loading model: World\Expansion03\doodads\pygmy\cookpot\pygmy_bowl_02.m2
+
+20:13:34: Loading texture: WORLD\KALIMDOR\DARKSHORE\GIANTSEATURTLE\TURTLESHELLCAGE01.BLP
+20:13:34: Info: Added WORLD\KALIMDOR\DARKSHORE\GIANTSEATURTLE\TURTLESHELLCAGE01.BLP to the TextureList.
+20:13:34: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\COOKPOT\PYGMYBONES.BLP
+20:13:34: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\COOKPOT\PYGMYBONES.BLP to the TextureList.
+20:13:34: Loading model: World\Expansion03\doodads\pygmy\cookpot\pygmy_bowl_01.m2
+
+20:13:34: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\COOKPOT\PYGMYBONES.BLP
+20:13:34: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\COOKPOT\PYGMYBONES.BLP to the TextureList.
+20:13:34: Loading texture: WORLD\KALIMDOR\DARKSHORE\GIANTSEATURTLE\TURTLESHELLCAGE01.BLP
+20:13:34: Info: Added WORLD\KALIMDOR\DARKSHORE\GIANTSEATURTLE\TURTLESHELLCAGE01.BLP to the TextureList.
+20:13:37: Loading model: World\Expansion03\doodads\pygmy\drums\pygmy_drums_stage.m2
+
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_DRUM_STAGE.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_DRUM_STAGE.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\TURTLEPOT\PYGMY_TURTLEPOT01.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\TURTLEPOT\PYGMY_TURTLEPOT01.BLP to the TextureList.
+20:13:37: Loading texture: SPELLS\TOONSMOKE16.BLP
+20:13:37: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList.
+20:13:37: Loading texture: SPELLS\LAVALUMP2.BLP
+20:13:37: Info: Added SPELLS\LAVALUMP2.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_05.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_05.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_02.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_02.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\ITEMS\MISC.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\ITEMS\MISC.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_04.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_04.BLP to the TextureList.
+20:13:37: Loading texture: WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_03.BLP
+20:13:37: Info: Added WORLD\EXPANSION03\DOODADS\PYGMY\DRUMS\PYGMY_LARGE_DRUM_03.BLP to the TextureList.
+20:13:37: Loading texture: SPELLS\T_VFX_SMOKE_STYLIZED_1B.BLP
+20:13:37: Info: Added SPELLS\T_VFX_SMOKE_STYLIZED_1B.BLP to the TextureList.
+20:13:44: Loading model: World\Expansion03\doodads\ogre\om_chair_01_gray.m2
+
+20:13:44: Loading texture: World\Expansion03\Doodads\Ogre\OM_stonehenge_gray.blp
+20:13:44: Info: Added World\Expansion03\Doodads\Ogre\OM_stonehenge_gray.blp to the TextureList.
+20:13:44: Loading model: World\Expansion03\doodads\ogre\om_forge_01_gray.m2
+
+20:13:44: Loading texture: WORLD\EXPANSION03\DOODADS\OGRE\OM_FORGE_01_GRAY.BLP
+20:13:44: Info: Added WORLD\EXPANSION03\DOODADS\OGRE\OM_FORGE_01_GRAY.BLP to the TextureList.
+20:13:44: Loading texture: WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP
+20:13:44: Info: Added WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP to the TextureList.
+20:13:44: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\BURNINGLEGION\BANNERS\FIRESWIRLGREEN.BLP
+20:13:44: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\BURNINGLEGION\BANNERS\FIRESWIRLGREEN.BLP to the TextureList.
+20:13:44: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\OGRE\FIRES\OM_CAMPFIRE.BLP
+20:13:44: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\OGRE\FIRES\OM_CAMPFIRE.BLP to the TextureList.
+20:13:44: Loading texture: SPELLS\LAVALUMP2.BLP
+20:13:44: Info: Added SPELLS\LAVALUMP2.BLP to the TextureList.
+20:13:44: Loading texture: SPELLS\TOONSMOKE16.BLP
+20:13:44: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList.
+20:13:45: Loading model: World\Expansion03\doodads\ogre\om_chair_01_gray.m2
+
+20:13:45: Loading texture: World\Expansion03\Doodads\Ogre\OM_stonehenge_gray.blp
+20:13:45: Info: Added World\Expansion03\Doodads\Ogre\OM_stonehenge_gray.blp to the TextureList.
+20:15:36: Loading WMO World\Wmo\lorderon\buildings\zulaman\zulaman_pieces\zulaman_pillar_a.wmo
+20:15:36: Loading texture: Dungeons\Textures\Walls\Bm_Zul_Basestone01.Blp
+20:15:36: Loading texture: Dungeons\Textures\Trim\Bm_Zul_Woodtrim01.Blp
+20:15:36: Loading WMO World\Wmo\lorderon\buildings\zulaman\zulaman_pieces\zulaman_pillar_a_broken.wmo
+20:15:36: Loading texture: Dungeons\Textures\Walls\Bm_Zul_Basestone01.Blp
+20:15:38: Loading WMO World\Wmo\azeroth\buildings\stormwind\sw_harbor_lgpillar.wmo
+20:15:38: Loading texture: Dungeons\Textures\Walls\Mm_Strmwnd_Wall_06.Blp
+20:15:38: Loading WMO World\Wmo\azeroth\buildings\stormwind\sw_harbor_lgpillar.wmo
+20:15:38: Loading texture: Dungeons\Textures\Walls\Mm_Strmwnd_Wall_06.Blp
+20:15:40: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_axe_pillar_transport.wmo
+20:15:40: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:40: Original Vertex Colors Gathered.
+20:15:40: Gathering New Vertex Colors...
+20:15:41: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_axe_pillar_transport.wmo
+20:15:41: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:41: Original Vertex Colors Gathered.
+20:15:41: Gathering New Vertex Colors...
+20:15:41: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_ivory_pillar_transport.wmo
+20:15:41: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:41: Original Vertex Colors Gathered.
+20:15:41: Gathering New Vertex Colors...
+20:15:42: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_ivory_pillar_transport.wmo
+20:15:42: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:42: Original Vertex Colors Gathered.
+20:15:42: Gathering New Vertex Colors...
+20:15:42: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_lightning_pillar_transport.wmo
+20:15:42: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:42: Original Vertex Colors Gathered.
+20:15:42: Gathering New Vertex Colors...
+20:15:42: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_lightning_pillar_transport.wmo
+20:15:42: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:42: Original Vertex Colors Gathered.
+20:15:42: Gathering New Vertex Colors...
+20:15:42: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_pillar.wmo
+20:15:42: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:42: Original Vertex Colors Gathered.
+20:15:42: Gathering New Vertex Colors...
+20:15:42: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_pillar.wmo
+20:15:42: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:42: Original Vertex Colors Gathered.
+20:15:42: Gathering New Vertex Colors...
+20:15:43: Loading WMO World\Wmo\transports\wmo_elevators\org_arena_pillar_transport.wmo
+20:15:43: Loading texture: Dungeons\Textures\Stormwind\Gray10.Blp
+20:15:43: Original Vertex Colors Gathered.
+20:15:43: Gathering New Vertex Colors...
+20:15:44: Loading WMO World\Wmo\northrend\buildings\titan\titan_sota_pillars.wmo
+20:15:44: Loading texture: Dungeons\Textures\Ulduar\Eb_Ulduarfloor21.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Chamf_Ends.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Plain.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Flat_Middle_Nosnow.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Floor_Cracked.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Wall_Ionic.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Wall_Plain.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Trim02_Floral.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Stone_Dark.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Corinth.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Trim03_Metal.Blp
+20:15:44: Loading WMO World\Wmo\northrend\buildings\titan\titan_sota_pillars.wmo
+20:15:44: Loading texture: Dungeons\Textures\Ulduar\Eb_Ulduarfloor21.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Chamf_Ends.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Plain.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Column_Flat_Middle_Nosnow.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Floor_Cracked.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Wall_Ionic.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Wall_Plain.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Trim02_Floral.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Stone_Dark.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Corinth.Blp
+20:15:44: Loading texture: Dungeons\Textures\Wyrmrest\Wr_Trim03_Metal.Blp
+20:15:47: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillar.m2
+
+20:15:48: Loading texture: World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp
+20:15:48: Info: Added World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp to the TextureList.
+20:15:50: Loading model: World\Kalimdor\darkshore\passivedoodads\ruins\darkshoreruinpillar01.m2
+
+20:15:50: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP
+20:15:50: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP to the TextureList.
+20:15:50: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP
+20:15:50: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP to the TextureList.
+20:15:51: Loading model: World\Kalimdor\darkshore\passivedoodads\ruins\darkshoreruinpillar02.m2
+
+20:15:51: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP
+20:15:51: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP to the TextureList.
+20:15:51: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP
+20:15:51: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP to the TextureList.
+20:15:52: Loading model: World\Kalimdor\darkshore\passivedoodads\ruins\darkshoreruinpillar03.m2
+
+20:15:52: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP
+20:15:52: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\RUINS\AZSHARARUINPILLAR02.BLP to the TextureList.
+20:15:52: Loading texture: WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP
+20:15:52: Info: Added WORLD\KALIMDOR\DARKSHORE\PASSIVEDOODADS\BUSHES\DARKSHORETREEGRAY01.BLP to the TextureList.
+20:15:52: Loading model: World\Kalimdor\darkshore\passivedoodads\ruins\darkshoreruinpillar04.m2
+
+20:15:52: Loading texture: World\Kalimdor\Darkshore\PassiveDoodads\Ruins\AzsharaRuinPillar02.blp
+20:15:52: Info: Added World\Kalimdor\Darkshore\PassiveDoodads\Ruins\AzsharaRuinPillar02.blp to the TextureList.
+20:15:53: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillar.m2
+
+20:15:53: Loading texture: World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp
+20:15:53: Info: Added World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp to the TextureList.
+20:15:53: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillarbroken.m2
+
+20:15:53: Loading texture: WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_PILLAR.BLP
+20:15:53: Info: Added WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_PILLAR.BLP to the TextureList.
+20:15:54: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillar.m2
+
+20:15:54: Loading texture: World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp
+20:15:54: Info: Added World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp to the TextureList.
+20:17:12: Loading model: World\Kalimdor\ashenvale\passivedoodads\satyrruins\ruinssatyraltpillar01.m2
+
+20:17:12: Loading texture: WORLD\KALIMDOR\ASHENVALE\PASSIVEDOODADS\SATYRRUINS\RUINSSATYRPILLAR08.BLP
+20:17:12: Info: Added WORLD\KALIMDOR\ASHENVALE\PASSIVEDOODADS\SATYRRUINS\RUINSSATYRPILLAR08.BLP to the TextureList.
+20:17:12: Loading texture: WORLD\KALIMDOR\ASHENVALE\PASSIVEDOODADS\SATYRRUINS\RUINSSATYRROOT06.BLP
+20:17:12: Info: Added WORLD\KALIMDOR\ASHENVALE\PASSIVEDOODADS\SATYRRUINS\RUINSSATYRROOT06.BLP to the TextureList.
+20:17:13: Loading model: World\Kalimdor\silithus\passivedoodads\ruins\silithusruinspillar02.m2
+
+20:17:13: Loading texture: DUNGEONS\TEXTURES\TRIM\JLO_ANNQIRAJ_TRIMEXT03.BLP
+20:17:13: Info: Added DUNGEONS\TEXTURES\TRIM\JLO_ANNQIRAJ_TRIMEXT03.BLP to the TextureList.
+20:17:17: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillar.m2
+
+20:17:17: Loading texture: World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp
+20:17:17: Info: Added World\Kalimdor\Silithus\PassiveDoodads\QuirajRuins\quiraj_ruined_pillar.blp to the TextureList.
+20:17:17: Loading model: World\Kalimdor\silithus\passivedoodads\quirajruins\quirajpillarbroken.m2
+
+20:17:17: Loading texture: WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_PILLAR.BLP
+20:17:17: Info: Added WORLD\KALIMDOR\SILITHUS\PASSIVEDOODADS\QUIRAJRUINS\QUIRAJ_RUINED_PILLAR.BLP to the TextureList.
+20:17:19: Loading model: World\Khazmodan\badlands\passivedoodads\statues\badlandscobrapillar01.m2
+
+20:17:19: Loading texture: WORLD\KHAZMODAN\BADLANDS\PASSIVEDOODADS\STATUES\TEST.BLP
+20:17:19: Info: Added WORLD\KHAZMODAN\BADLANDS\PASSIVEDOODADS\STATUES\TEST.BLP to the TextureList.
+20:17:19: Loading texture: WORLD\KHAZMODAN\BADLANDS\PASSIVEDOODADS\STATUES\SNAKEHEADPILLAR01.BLP
+20:17:19: Info: Added WORLD\KHAZMODAN\BADLANDS\PASSIVEDOODADS\STATUES\SNAKEHEADPILLAR01.BLP to the TextureList.
+20:17:20: Loading model: World\Generic\passive doodads\arenaelevators\org_arena_lightning_pillar.m2
+
+20:17:20: Loading texture: DUNGEONS\TEXTURES\TRIM\MM_OGRMR_INT_TRIM_03.BLP
+20:17:20: Info: Added DUNGEONS\TEXTURES\TRIM\MM_OGRMR_INT_TRIM_03.BLP to the TextureList.
+20:17:20: Loading texture: WORLD\GENERIC\PASSIVE DOODADS\ARENAELEVATORS\ORGRIMMARARENASYMBOLS.BLP
+20:17:20: Info: Added WORLD\GENERIC\PASSIVE DOODADS\ARENAELEVATORS\ORGRIMMARARENASYMBOLS.BLP to the TextureList.
+20:17:20: Loading texture: DUNGEONS\TEXTURES\METAL\CONVEYORBELT_02.BLP
+20:17:20: Info: Added DUNGEONS\TEXTURES\METAL\CONVEYORBELT_02.BLP to the TextureList.
+20:17:20: Loading texture: DUNGEONS\TEXTURES\FLOOR\MM_OGRMR_FLOOR_02.BLP
+20:17:20: Info: Added DUNGEONS\TEXTURES\FLOOR\MM_OGRMR_FLOOR_02.BLP to the TextureList.
+20:17:21: Loading model: World\Generic\passive doodads\arenaelevators\org_arena_ivory_pillar_collision.m2
+
+20:17:21: Loading texture: DUNGEONS\TEXTURES\FLOOR\MM_OGRMR_FLOOR_02.BLP
+20:17:21: Info: Added DUNGEONS\TEXTURES\FLOOR\MM_OGRMR_FLOOR_02.BLP to the TextureList.
+20:17:21: Loading model: World\Generic\centaur\passive doodads\centaurruins\centaur_pillar01.m2
+
+20:17:21: Loading texture: DUNGEONS\TEXTURES\TRIM\BM_MRDN_TRIMS01.BLP
+20:17:21: Info: Added DUNGEONS\TEXTURES\TRIM\BM_MRDN_TRIMS01.BLP to the TextureList.
+20:17:23: Loading model: World\Expansion04\doodads\valeofeternalblossoms\rockpillars\veb_rocks14.m2
+
+20:17:23: Loading texture: WORLD\EXPANSION04\DOODADS\VALEOFETERNALBLOSSOMS\ROCKPILLARS\VEB_ROCKS02.BLP
+20:17:23: Info: Added WORLD\EXPANSION04\DOODADS\VALEOFETERNALBLOSSOMS\ROCKPILLARS\VEB_ROCKS02.BLP to the TextureList.
+20:17:23: Loading model: World\Expansion04\doodads\valeofeternalblossoms\rockpillars\veb_rocks15.m2
+
+20:17:23: Loading texture: WORLD\EXPANSION04\DOODADS\VALEOFETERNALBLOSSOMS\ROCKPILLARS\VEB_ROCKS02.BLP
+20:17:23: Info: Added WORLD\EXPANSION04\DOODADS\VALEOFETERNALBLOSSOMS\ROCKPILLARS\VEB_ROCKS02.BLP to the TextureList.
+20:17:31: Loading model: World\Expansion04\doodads\townlong\gianttree\mz_rockpillar02.m2
+
+20:17:31: Loading texture: WORLD\EXPANSION04\DOODADS\Townlong\GiantTree\MZ_RockPillar01.blp
+20:17:31: Info: Added WORLD\EXPANSION04\DOODADS\Townlong\GiantTree\MZ_RockPillar01.blp to the TextureList.
+20:17:32: Loading model: World\Expansion04\doodads\townlong\gianttree\mz_rockpillar05.m2
+
+20:17:32: Loading texture: WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP
+20:17:32: Info: Added WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP to the TextureList.
+20:17:35: Loading model: World\Expansion04\doodads\townlong\gianttree\mz_rockpillar01.m2
+
+20:17:35: Loading texture: WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP
+20:17:35: Info: Added WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP to the TextureList.
+20:17:39: Loading model: World\Expansion04\doodads\townlong\gianttree\mz_rockpillar02.m2
+
+20:17:39: Loading texture: WORLD\EXPANSION04\DOODADS\Townlong\GiantTree\MZ_RockPillar01.blp
+20:17:39: Info: Added WORLD\EXPANSION04\DOODADS\Townlong\GiantTree\MZ_RockPillar01.blp to the TextureList.
+20:17:39: Loading model: World\Expansion04\doodads\townlong\gianttree\mz_rockpillar03.m2
+
+20:17:39: Loading texture: WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP
+20:17:39: Info: Added WORLD\EXPANSION04\DOODADS\TOWNLONG\GIANTTREE\MZ_ROCKPILLAR01.BLP to the TextureList.
+20:17:40: Loading model: World\Expansion04\doodads\pandaren\pa_pillar_02.m2
+
+20:17:40: Loading texture: WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP
+20:17:40: Info: Added WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP to the TextureList.
+20:17:41: Loading model: World\Expansion04\doodads\pandaren\pa_pillar_01_broken.m2
+
+20:17:41: Loading texture: WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP
+20:17:41: Info: Added WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP to the TextureList.
+20:17:41: Loading texture: WORLD\EXPANSION04\DOODADS\PANDAREN\DH_RUBBLE.BLP
+20:17:41: Info: Added WORLD\EXPANSION04\DOODADS\PANDAREN\DH_RUBBLE.BLP to the TextureList.
+20:17:42: Loading model: World\Expansion04\doodads\pandaren\pa_pillar_02.m2
+
+20:17:42: Loading texture: WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP
+20:17:42: Info: Added WORLD\EXPANSION04\DOODADS\PANDAREN\DH_PILLAR1.BLP to the TextureList.
+20:17:47: Loading model: World\Expansion04\doodads\mogu\mogu_pillar_fire_blue.m2
+
+20:17:47: Loading texture: WORLD\EXPANSION04\DOODADS\MOGU\T_VFX_SWIRL64_A_C1.BLP
+20:17:47: Info: Added WORLD\EXPANSION04\DOODADS\MOGU\T_VFX_SWIRL64_A_C1.BLP to the TextureList.
+20:17:47: Loading texture: WORLD\EXPANSION04\DOODADS\MOGU\ELECTRIC_LIQUID_BLUE_A.BLP
+20:17:47: Info: Added WORLD\EXPANSION04\DOODADS\MOGU\ELECTRIC_LIQUID_BLUE_A.BLP to the TextureList.
+20:17:47: Loading texture: SPELLS\T_VFX_BORDER3C.BLP
+20:17:47: Info: Added SPELLS\T_VFX_BORDER3C.BLP to the TextureList.
+20:17:49: Loading model: World\Expansion04\doodads\jadeforest\orcrefuge\orcrefugepillar.m2
+
+20:17:49: Loading texture: WORLD\EXPANSION04\DOODADS\JADEFOREST\ORCREFUGE\DH_REFUGEWOOD.BLP
+20:17:49: Info: Added WORLD\EXPANSION04\DOODADS\JADEFOREST\ORCREFUGE\DH_REFUGEWOOD.BLP to the TextureList.
+20:17:49: Loading texture: WORLD\EXPANSION04\DOODADS\JADEFOREST\ORCREFUGE\DH_REFUGEMETAL2.BLP
+20:17:49: Info: Added WORLD\EXPANSION04\DOODADS\JADEFOREST\ORCREFUGE\DH_REFUGEMETAL2.BLP to the TextureList.
+20:17:49: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP
+20:17:49: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP to the TextureList.
+20:17:49: Error: Could not load the texture 'DUNGEONS\TEXTURES\WINTERORCS\DH_REFUGEMETAL.BLP'
+20:17:49: Info: Added DUNGEONS\TEXTURES\WINTERORCS\DH_REFUGEMETAL.BLP to the TextureList.
+20:17:49: Error: Could not load the texture 'DUNGEONS\TEXTURES\WINTERORCS\PR_REFUGE_CANVAS.BLP'
+20:17:49: Info: Added DUNGEONS\TEXTURES\WINTERORCS\PR_REFUGE_CANVAS.BLP to the TextureList.
+20:17:50: Loading model: World\Expansion03\doodads\wildhammer\pillars\wildhammer_ruinedpillar2.m2
+
+20:17:50: Loading texture: WORLD\EXPANSION03\DOODADS\WILDHAMMER\PILLARS\JLO_WILDHAMMER_WOODTRIMS_LOW.BLP
+20:17:50: Info: Added WORLD\EXPANSION03\DOODADS\WILDHAMMER\PILLARS\JLO_WILDHAMMER_WOODTRIMS_LOW.BLP to the TextureList.
+20:17:52: Loading model: World\Azeroth\burningsteppes\passivedoodads\lavapillar\lavapillar01.m2
+
+20:17:52: Loading texture: WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\LAVAPILLAR\ASHPILLAR01A.BLP
+20:17:52: Info: Added WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\LAVAPILLAR\ASHPILLAR01A.BLP to the TextureList.
+20:17:52: Loading model: World\Azeroth\burningsteppes\passivedoodads\lavapillar\lavapillar03.m2
+
+20:17:52: Loading texture: WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\LAVAPILLAR\ASHPILLAR01A.BLP
+20:17:52: Info: Added WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\LAVAPILLAR\ASHPILLAR01A.BLP to the TextureList.
+20:17:53: Loading model: World\Azeroth\stranglethorn\passivedoodads\aquaduct\aquaductstone_pillar1.m2
+
+20:17:53: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\AQUADUCT\STONEPILLARMOSS.BLP
+20:17:53: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\AQUADUCT\STONEPILLARMOSS.BLP to the TextureList.
+20:17:53: Loading model: World\Azeroth\stranglethorn\passivedoodads\aquaduct\aquaductstone_pillar2.m2
+
+20:17:53: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\AQUADUCT\STONEPILLARMOSS.BLP
+20:17:53: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\AQUADUCT\STONEPILLARMOSS.BLP to the TextureList.
+20:17:57: Loading model: World\Expansion03\doodads\vashjir\tubeworms\vj_glowingtubeworms02.m2
+
+20:17:57: Loading texture: WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP
+20:17:57: Info: Added WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP to the TextureList.
+20:17:58: Loading model: World\Expansion03\doodads\vashjir\tubeworms\vj_glowingtubewormcluster04.m2
+
+20:17:58: Loading texture: WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP
+20:17:58: Info: Added WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP to the TextureList.
+20:17:59: Loading model: World\Expansion03\doodads\vashjir\glows\vj_blugrenglow_01_long.m2
+
+20:17:59: Loading texture: WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP
+20:17:59: Info: Added WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP to the TextureList.
+20:18:02: Loading model: World\Expansion03\doodads\vashjir\glows\vj_blugrenbrtglow_01.m2
+
+20:18:02: Loading texture: WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENBRTGLOW_01.BLP
+20:18:02: Info: Added WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENBRTGLOW_01.BLP to the TextureList.
+20:18:03: Loading model: World\Expansion03\doodads\vashjir\glows\vj_blugrenglow_01_long.m2
+
+20:18:03: Loading texture: WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP
+20:18:03: Info: Added WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP to the TextureList.
+20:18:03: Loading model: World\Expansion03\doodads\vashjir\glows\vj_blugrenglow_01.m2
+
+20:18:03: Loading texture: WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP
+20:18:03: Info: Added WORLD\EXPANSION03\DOODADS\DEEPHOLM\GLOW\ICECROWN_BLUGRENGLOW_01.BLP to the TextureList.
+20:18:59: Loading model: World\Expansion03\doodads\vashjir\tubeworms\vj_glowingtubewormplume01.m2
+
+20:18:59: Loading texture: WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP
+20:18:59: Info: Added WORLD\EXPANSION03\DOODADS\VASHJIR\TUBEWORMS\VJ_GLOWINGTUBEWORMS01.BLP to the TextureList.
+20:19:05: Loading WMO World\Wmo\outland\floatingbuildings\hellfire_rocktower.wmo
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Broken.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_01.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Base_01.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_01.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_03.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_02.Blp
+20:19:05: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_01.Blp
+20:19:05: Loading texture: World\Expansion01\Doodads\Hellfirepeninsula\Hellfireoverhangrock\Hellfire_Floatingrock_01.Blp
+20:19:06: Loading WMO World\Wmo\outland\floatingbuildings\hellfire_rocktower.wmo
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Broken.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_01.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Base_01.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_01.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_03.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_02.Blp
+20:19:06: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_01.Blp
+20:19:06: Loading texture: World\Expansion01\Doodads\Hellfirepeninsula\Hellfireoverhangrock\Hellfire_Floatingrock_01.Blp
+20:19:06: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_02.wmo
+20:19:06: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:06: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:06: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:06: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:07: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_01.wmo
+20:19:07: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:07: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:07: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:07: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:08: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_waterfalls.wmo
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:08: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grassspout.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasssides.Blp
+20:19:08: Loading model: World\Nodxt\Detail\Naggra01.M2
+
+20:19:08: Loading texture: WORLD\NODXT\DETAIL\NAGRANDDETAILDOODADS.BLP
+20:19:08: Info: Added WORLD\NODXT\DETAIL\NAGRANDDETAILDOODADS.BLP to the TextureList.
+20:19:08: Loading model: World\Nodxt\Detail\Naggra02.M2
+
+20:19:08: Info: Added WORLD\NODXT\DETAIL\NAGRANDDETAILDOODADS.BLP to the TextureList.
+20:19:08: Loading model: World\Nodxt\Detail\Naggra05.M2
+
+20:19:08: Info: Added WORLD\NODXT\DETAIL\NAGRANDDETAILDOODADS.BLP to the TextureList.
+20:19:08: Loading model: World\Expansion01\Doodads\Nagrand\Rocks\Nagrand_Waterfalls_Forfloatingrocks.M2
+
+20:19:08: Loading texture: WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\MYST2ALPHA.BLP
+20:19:08: Info: Added WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\MYST2ALPHA.BLP to the TextureList.
+20:19:08: Loading texture: WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\MUSHROOMS\DUST5BWHITE.BLP
+20:19:08: Info: Added WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\MUSHROOMS\DUST5BWHITE.BLP to the TextureList.
+20:19:08: Loading texture: WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER03.BLP
+20:19:08: Info: Added WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER03.BLP to the TextureList.
+20:19:08: Loading texture: WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER01.BLP
+20:19:08: Info: Added WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER01.BLP to the TextureList.
+20:19:08: Loading texture: WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER04.BLP
+20:19:08: Info: Added WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER04.BLP to the TextureList.
+20:19:08: Loading texture: WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER02.BLP
+20:19:08: Info: Added WORLD\EXPANSION01\DOODADS\NAGRAND\ROCKS\NAGRAND_ROCKFLOATING_WATERFALLWATER02.BLP to the TextureList.
+20:19:08: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_waterfalls.wmo
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:08: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grassspout.Blp
+20:19:08: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasssides.Blp
+20:19:09: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_waterfalls.wmo
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:09: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grassspout.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasssides.Blp
+20:19:09: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_02.wmo
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:09: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:09: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:10: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_01.wmo
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:10: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:10: Loading WMO World\Wmo\outland\floatingrocks\nagrand_rockfloating_01.wmo
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Bottom.Blp
+20:19:10: Loading texture: Tileset\Expansion01\Nagrand\Nagrandrocksolid.Blp
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Edge.Blp
+20:19:10: Loading texture: World\Environment\Doodad\Nagrand\Rocksfloating\Nagrand_Rockfloating_Grasscenter.Blp
+20:19:11: Loading WMO World\Wmo\outland\floatingbuildings\hellfire_rocktower.wmo
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Broken.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_01.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Base_01.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_01.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_03.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_02.Blp
+20:19:11: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_01.Blp
+20:19:11: Loading texture: World\Expansion01\Doodads\Hellfirepeninsula\Hellfireoverhangrock\Hellfire_Floatingrock_01.Blp
+20:19:12: Loading WMO World\Wmo\outland\floatingbuildings\hellfire_rocktower.wmo
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Broken.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_01.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Base_01.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_01.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_03.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exfloor_02.Blp
+20:19:12: Loading texture: Dungeons\Textures\Brian\Ruinedtower\Tower_Exwall_01.Blp
+20:19:12: Loading texture: World\Expansion01\Doodads\Hellfirepeninsula\Hellfireoverhangrock\Hellfire_Floatingrock_01.Blp
+20:19:13: Loading WMO World\Wmo\outland\shadowmoon\rocks\shadowmoon_overhangrock_large_01.wmo
+20:19:13: Loading texture: World\Expansion01\Doodads\Shadowmoon\Rocks\Shadowmoon_Floatingrock_01.Blp
+20:19:14: Loading WMO World\Wmo\outland\shadowmoon\rocks\shadowmoon_overhangrock_large_01.wmo
+20:19:14: Loading texture: World\Expansion01\Doodads\Shadowmoon\Rocks\Shadowmoon_Floatingrock_01.Blp
+20:19:17: Loading WMO World\Wmo\dungeon\az_blackrock\blackrock_upper_instance.wmo
+20:19:17: Loading texture: Dungeons\Textures\Rock\Bm_Brspire_Rockwall01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Rock\Bm_Brspire_Rockwall02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Rock\Bm_Brspire_Lavarock01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Trim02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Lava\Burningsteppslava02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Rockflr01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Rock\Bm_Brspire_Rockwall03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Stnwall01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Statue01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Pillar\Bm_Brspire_Pillar01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Trim01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Stnfloor01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Ceiling\Bm_Brspire_Hallceiling01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Stnwall02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Metal\Bm_Brspire_Chain01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Windows\Bm_Brspire_Windows01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Metal\Bm_Brspire_Maindoor01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Trim03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Metalhead01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Hallfloor01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Chapelwall01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Rubble01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Stnwall03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Ceiling\Bm_Brspire_Ceiling01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Trim04.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Tileflr01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Trim05.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Ramptile01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Metal\Bm_Brspire_Metalbars.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Hammer01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Hallfloor02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Stnwall04.Blp
+20:19:17: Loading texture: Dungeons\Textures\Ceiling\Bm_Brspire_Ceiling03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Bigpillar01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Bm_Brspire_Stnwall06.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Steamvent01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Floor\Bm_Brspire_Dirtfloor01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Bm_Brspire_Runes01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Metal\Bm_Brspire_Catwalk01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Mm_Ogrmr_Wall_01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Walls\Mm_Ogrmr_Wall_03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Mm_Orc_Bkrtrim_01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Mm_Orc_Bkrtrim_02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Devices\Mm_Rope_01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Mm_Orc_Bkrint_Trim_02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Roof\Mm_Orc_Bkrroof_02.Blp
+20:19:17: Loading texture: Dungeons\Textures\Doodads\Stormwindbarrel.Blp
+20:19:17: Loading texture: Dungeons\Textures\Doodads\Stormwindcrate01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Rock\Jlo_Mcaveex_Rock2.Blp
+20:19:17: Loading texture: Dungeons\Textures\Door\Bm_Blkrk_Door01.Blp
+20:19:17: Loading texture: World\Environment\Doodad\Blackrockspire\Banners\Blackrockorcbanner01.Blp
+20:19:17: Loading texture: World\Environment\Doodad\Blackrockspire\Banners\Blackrockorcbanner03.Blp
+20:19:17: Loading texture: World\Generic\Darkirondwarf\Passive Doodads\Manacles\Blackrockchain.Blp
+20:19:17: Loading texture: World\Environment\Doodad\Blackrockspire\Banners\Blackrockdarkironbanner01.Blp
+20:19:17: Loading texture: World\Environment\Doodad\Blackrockspire\Banners\Blackrockdarkironbanner02.Blp
+20:19:17: Loading texture: World\Environment\Doodad\Blackrockspire\Banners\Blackrockdarkironbanner03.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Mm_Ogrmr_Trim_01.Blp
+20:19:17: Loading texture: Dungeons\Textures\Trim\Mm_Ogrmr_Trim_02.Blp
+20:19:17: Original Vertex Colors Gathered.
+20:19:17: Gathering New Vertex Colors...
+20:19:21: Loading model: World\Blackrockv2\passivedoodads\blackrockv2_boneschewed_01.m2
+
+20:19:21: Loading texture: World\BlackrockV2\PassiveDoodads\BlackrockV2_BonesChewed_01.blp
+20:19:21: Info: Added World\BlackrockV2\PassiveDoodads\BlackrockV2_BonesChewed_01.blp to the TextureList.
+20:19:22: Loading model: World\Blackrockv2\passivedoodads\blackrockv2_alchemyroom_dragonstatue_01.m2
+
+20:19:22: Loading texture: WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_02.BLP
+20:19:22: Info: Added WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_02.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\EXPANSION03\DOODADS\DARKSHOREREWORK\RAINBOWENVIRO.BLP
+20:19:22: Info: Added WORLD\EXPANSION03\DOODADS\DARKSHOREREWORK\RAINBOWENVIRO.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\BANNERS\TWILIGHTSHAMMER_BANNERCATACLYSM_HANGING_01.BLP
+20:19:22: Info: Added WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\BANNERS\TWILIGHTSHAMMER_BANNERCATACLYSM_HANGING_01.BLP to the TextureList.
+20:19:22: Loading texture: SPELLS\ORBREFLECTBRIGHT_GREENISH.BLP
+20:19:22: Info: Added SPELLS\ORBREFLECTBRIGHT_GREENISH.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\LAMPS\TWILIGHTSHAMMER_LAMPPOST_01.BLP
+20:19:22: Info: Added WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\LAMPS\TWILIGHTSHAMMER_LAMPPOST_01.BLP to the TextureList.
+20:19:22: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP
+20:19:22: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\LAMPPOST\TWILIGHTSHAMMER_TENTPOLE01.BLP
+20:19:22: Info: Added WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\LAMPPOST\TWILIGHTSHAMMER_TENTPOLE01.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_03.BLP
+20:19:22: Info: Added WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_03.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_01.BLP
+20:19:22: Info: Added WORLD\BLACKROCKV2\PASSIVEDOODADS\TWILIGHTSHAMMER_DRAGONSTATUE_01.BLP to the TextureList.
+20:19:22: Loading texture: WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\FENCE\TWILIGHTSHAMMER_SIGNPOST01.BLP
+20:19:22: Info: Added WORLD\EXPANSION03\DOODADS\TWILIGHTHAMMER\FENCE\TWILIGHTSHAMMER_SIGNPOST01.BLP to the TextureList.
+20:19:22: Loading texture: SPELLS\T_VFX_AURA01.BLP
+20:19:22: Info: Added SPELLS\T_VFX_AURA01.BLP to the TextureList.
+20:19:22: Loading texture: SPELLS\T_VFX_SMOKE_CREEPY.BLP
+20:19:22: Info: Added SPELLS\T_VFX_SMOKE_CREEPY.BLP to the TextureList.
+20:19:23: Loading model: World\Blackrockv2\passivedoodads\blackrockv2_boneschewed_06.m2
+
+20:19:23: Loading texture: WORLD\BLACKROCKV2\PASSIVEDOODADS\BLACKROCKV2_BONESCHEWED_01.BLP
+20:19:23: Info: Added WORLD\BLACKROCKV2\PASSIVEDOODADS\BLACKROCKV2_BONESCHEWED_01.BLP to the TextureList.
+20:19:24: Loading model: World\Azeroth\theblastedlands\passivedoodads\rocks\blastedlandsrock03.m2
+
+20:19:24: Loading texture: World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BLLRock02.blp
+20:19:24: Info: Added World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BLLRock02.blp to the TextureList.
+20:19:25: Loading model: World\Azeroth\theblastedlands\passivedoodads\rocks\blastedlandsrock02.m2
+
+20:19:25: Loading texture: World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BLLRock02.blp
+20:19:25: Info: Added World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BLLRock02.blp to the TextureList.
+20:19:25: Loading model: World\Azeroth\theblastedlands\passivedoodads\rocks\blastedlandsportalrock02.m2
+
+20:19:25: Loading texture: World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BlackPortalChunkSkin.blp
+20:19:25: Info: Added World\Azeroth\TheBlastedlands\PassiveDoodads\rocks\BlackPortalChunkSkin.blp to the TextureList.
+20:19:26: Loading model: World\Azeroth\swamposorrow\passivedoodads\rocks\swampsorrowrock01.m2
+
+20:19:26: Loading texture: TILESET\SWAMP OF SORROWS\SWAMPSORROWSROCK02.BLP
+20:19:26: Info: Added TILESET\SWAMP OF SORROWS\SWAMPSORROWSROCK02.BLP to the TextureList.
+20:19:27: Loading model: World\Azeroth\swamposorrow\passivedoodads\rocks\swampsorrowrock02.m2
+
+20:19:27: Loading texture: WORLD\AZEROTH\SWAMPOSORROW\PASSIVEDOODADS\ROCKS\OVERGROWNROCK103.BLP
+20:19:27: Info: Added WORLD\AZEROTH\SWAMPOSORROW\PASSIVEDOODADS\ROCKS\OVERGROWNROCK103.BLP to the TextureList.
+20:19:28: Loading model: World\Azeroth\stranglethorn\passivedoodads\rocks\stranglethorncliffrock02.m2
+
+20:19:28: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\Rocks\StranglethornCliffRock02.blp
+20:19:28: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\Rocks\StranglethornCliffRock02.blp to the TextureList.
+20:19:29: Loading model: World\Azeroth\stranglethorn\passivedoodads\rocks\stranglethorncliffrock01.m2
+
+20:19:29: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\Rocks\StranglethornCliffRock02.blp
+20:19:29: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\Rocks\StranglethornCliffRock02.blp to the TextureList.
+20:19:29: Loading model: World\Azeroth\redridge\passivedoodads\rocks\redridgerock03.m2
+
+20:19:29: Loading texture: World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase04.blp
+20:19:29: Info: Added World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase04.blp to the TextureList.
+20:19:30: Loading model: World\Azeroth\redridge\passivedoodads\rocks\redridgerock02.m2
+
+20:19:30: Loading texture: World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase05.blp
+20:19:30: Info: Added World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase05.blp to the TextureList.
+20:19:30: Loading model: World\Azeroth\redridge\passivedoodads\rocks\redridgerock01.m2
+
+20:19:30: Loading texture: World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase05.blp
+20:19:30: Info: Added World\Azeroth\RedRidge\PassiveDoodads\Rocks\BigRockBase05.blp to the TextureList.
+20:19:31: Loading model: World\Azeroth\karazahn\passivedoodads\rubble\karazahnrockrubble01.m2
+
+20:19:31: Loading texture: WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\RUBBLE\ROCKRUBBLE01.BLP
+20:19:31: Info: Added WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\RUBBLE\ROCKRUBBLE01.BLP to the TextureList.
+20:19:31: Loading model: World\Azeroth\karazahn\passivedoodads\rubble\karazahnrockrubble02.m2
+
+20:19:31: Loading texture: World\Azeroth\Karazahn\PassiveDoodads\Rubble\RockRubble01.blp
+20:19:31: Info: Added World\Azeroth\Karazahn\PassiveDoodads\Rubble\RockRubble01.blp to the TextureList.
+20:19:32: Loading model: World\Azeroth\karazahn\passivedoodads\rubble\karazahnrockrubble01.m2
+
+20:19:32: Loading texture: WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\RUBBLE\ROCKRUBBLE01.BLP
+20:19:32: Info: Added WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\RUBBLE\ROCKRUBBLE01.BLP to the TextureList.
+20:19:36: Loading model: World\Azeroth\karazahn\passivedoodads\rubble\karazahnrockrubble02.m2
+
+20:19:36: Loading texture: World\Azeroth\Karazahn\PassiveDoodads\Rubble\RockRubble01.blp
+20:19:36: Info: Added World\Azeroth\Karazahn\PassiveDoodads\Rubble\RockRubble01.blp to the TextureList.
+20:46:05: Shuting down the program...
+
+20:46:05: Info: GUI Layout was saved.

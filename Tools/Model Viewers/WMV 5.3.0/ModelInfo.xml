@@ -1,0 +1,478 @@
+<m2>
+  <info>
+    <modelname>World\Generic\human\passive doodads\woodenrails\rail_wooden01.m2</modelname>
+  </info>
+  <header>
+    <nameLength>14</nameLength>
+    <nameOfs>304</nameOfs>
+    <name>Rail_Wooden01</name>
+    <GlobalModelFlags>128</GlobalModelFlags>
+    <nGlobalSequences>0</nGlobalSequences>
+    <ofsGlobalSequences>0</ofsGlobalSequences>
+    <nAnimations>1</nAnimations>
+    <ofsAnimations>320</ofsAnimations>
+    <nAnimationLookup>0</nAnimationLookup>
+    <ofsAnimationLookup>0</ofsAnimationLookup>
+    <nBones>1</nBones>
+    <ofsBones>384</ofsBones>
+    <nKeyBoneLookup>1</nKeyBoneLookup>
+    <ofsKeyBoneLookup>480</ofsKeyBoneLookup>
+    <nVertices>76</nVertices>
+    <ofsVertices>496</ofsVertices>
+    <nViews>1</nViews>
+    <lodname>World\Generic\human\passive doodads\woodenrails\rail_wooden0100.skin</lodname>
+    <nColors>0</nColors>
+    <ofsColors>0</ofsColors>
+    <nTextures>1</nTextures>
+    <ofsTextures>4144</ofsTextures>
+    <nTransparency>1</nTransparency>
+    <ofsTransparency>4208</ofsTransparency>
+    <nTexAnims>0</nTexAnims>
+    <ofsTexAnims>0</ofsTexAnims>
+    <nTexReplace>1</nTexReplace>
+    <ofsTexReplace>4272</ofsTexReplace>
+    <nTexFlags>1</nTexFlags>
+    <ofsTexFlags>4288</ofsTexFlags>
+    <nBoneLookup>4</nBoneLookup>
+    <ofsBoneLookup>4304</ofsBoneLookup>
+    <nTexLookup>1</nTexLookup>
+    <ofsTexLookup>4320</ofsTexLookup>
+    <nTexUnitLookup>0</nTexUnitLookup>
+    <ofsTexUnitLookup>0</ofsTexUnitLookup>
+    <nTransparencyLookup>1</nTransparencyLookup>
+    <ofsTransparencyLookup>4336</ofsTransparencyLookup>
+    <nTexAnimLookup>1</nTexAnimLookup>
+    <ofsTexAnimLookup>4352</ofsTexAnimLookup>
+    <collisionSphere>
+      <min>(-0.306344, -2.66611, -0.147819)</min>
+      <max>(0.230292, 2.66283, 0.885482)</max>
+      <radius>2.721</radius>
+    </collisionSphere>
+    <boundSphere>
+      <min>(-0.231689, -2.66611, -0.324232)</min>
+      <max>(0.230292, 2.66283, 0.885482)</max>
+      <radius>2.74201</radius>
+    </boundSphere>
+    <nBoundingTriangles>24</nBoundingTriangles>
+    <ofsBoundingTriangles>4368</ofsBoundingTriangles>
+    <nBoundingVertices>6</nBoundingVertices>
+    <ofsBoundingVertices>4416</ofsBoundingVertices>
+    <nBoundingNormals>8</nBoundingNormals>
+    <ofsBoundingNormals>4496</ofsBoundingNormals>
+    <nAttachments>0</nAttachments>
+    <ofsAttachments>0</ofsAttachments>
+    <nAttachLookup>0</nAttachLookup>
+    <ofsAttachLookup>0</ofsAttachLookup>
+    <nEvents>0</nEvents>
+    <ofsEvents>0</ofsEvents>
+    <nLights>0</nLights>
+    <ofsLights>0</ofsLights>
+    <nCameras>0</nCameras>
+    <ofsCameras>0</ofsCameras>
+    <nCameraLookup>0</nCameraLookup>
+    <ofsCameraLookup>0</ofsCameraLookup>
+    <nRibbonEmitters>0</nRibbonEmitters>
+    <ofsRibbonEmitters>0</ofsRibbonEmitters>
+    <nParticleEmitters>0</nParticleEmitters>
+    <ofsParticleEmitters>0</ofsParticleEmitters>
+  </header>
+  <SkeletonAndAnimation>
+  <GlobalSequences size="0">
+  </GlobalSequences>
+  <Animations size="1">
+    <Animation id="0">
+      <animID>0</animID>
+      <animName>Stand</animName>
+      <length>4667</length>
+      <moveSpeed>0</moveSpeed>
+      <flags>32</flags>
+      <probability>32767</probability>
+      <d1>0</d1>
+      <d2>0</d2>
+      <playSpeed>150</playSpeed>
+      <boxA>(-0.306344, -2.66611, -0.147819)</boxA>
+      <boxB>(0.230292, 2.66283, 0.885482)</boxB>
+      <rad>2.721</rad>
+      <NextAnimation>-1</NextAnimation>
+      <Index>0</Index>
+    </Animation>
+  </Animations>
+  <AnimationLookups size="0">
+  </AnimationLookups>
+  <Bones size="1">
+    <Bone id="0">
+      <keyboneid>-1</keyboneid>
+      <billboard>0</billboard>
+      <parent>-1</parent>
+      <geoid>0</geoid>
+      <unknown>463257070</unknown>
+      <trans>
+      </trans>
+      <rot>
+      </rot>
+      <scale>
+      </scale>
+      <pivot>(-0.0435835, 0.0130456, 0.366996)</pivot>
+    </Bone>
+  </Bones>
+  <BoneLookups size="4">
+    <BoneLookup id="0">0</BoneLookup>
+    <BoneLookup id="1">0</BoneLookup>
+    <BoneLookup id="2">0</BoneLookup>
+    <BoneLookup id="3">0</BoneLookup>
+  </BoneLookups>
+  <KeyBoneLookups size="1">
+    <KeyBoneLookup id="0">-1</KeyBoneLookup>
+  </KeyBoneLookups>
+  </SkeletonAndAnimation>
+  <GeometryAndRendering>
+  <Vertices size="76">
+    <Vertice id="0">
+      <pos>(0.0978357, 2.35491, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="1">
+      <pos>(0.0461374, 2.08791, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="2">
+      <pos>(-0.130812, 2.19183, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="3">
+      <pos>(0.0572656, -2.16009, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="4">
+      <pos>(0.00556707, -2.42709, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="5">
+      <pos>(-0.171382, -2.32317, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="6">
+      <pos>(-0.0440945, -0.485566, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="7">
+      <pos>(-0.0416585, -0.766399, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="8">
+      <pos>(-0.230717, -0.570907, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="9">
+      <pos>(0.0572664, 0.986879, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="10">
+      <pos>(0.00556778, 0.719882, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="11">
+      <pos>(-0.171382, 0.823804, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="12">
+      <pos>(-0.184992, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="13">
+      <pos>(0.187807, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="14">
+      <pos>(0.230292, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="15">
+      <pos>(-0.212847, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="16">
+      <pos>(0.203333, 2.60479, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="17">
+      <pos>(-0.188269, 2.64098, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="18">
+      <pos>(-0.231688, 2.66283, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="19">
+      <pos>(0.20297, 2.63808, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="20">
+      <pos>(-0.188269, 2.64098, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="21">
+      <pos>(-0.295763, -0.395878, 0.811693)</pos>
+    </Vertice>
+    <Vertice id="22">
+      <pos>(-0.231688, 2.66283, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="23">
+      <pos>(-0.306344, -0.939311, 0.597878)</pos>
+    </Vertice>
+    <Vertice id="24">
+      <pos>(-0.212847, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="25">
+      <pos>(-0.184992, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="26">
+      <pos>(0.20297, 2.63808, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="27">
+      <pos>(0.0849231, -0.871912, 0.597878)</pos>
+    </Vertice>
+    <Vertice id="28">
+      <pos>(0.203333, 2.60479, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="29">
+      <pos>(0.127409, -0.408692, 0.811693)</pos>
+    </Vertice>
+    <Vertice id="30">
+      <pos>(0.187807, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="31">
+      <pos>(0.230292, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="32">
+      <pos>(-0.231688, 2.66283, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="33">
+      <pos>(0.127409, -0.408692, 0.811693)</pos>
+    </Vertice>
+    <Vertice id="34">
+      <pos>(0.20297, 2.63808, 0.885482)</pos>
+    </Vertice>
+    <Vertice id="35">
+      <pos>(-0.295763, -0.395878, 0.811693)</pos>
+    </Vertice>
+    <Vertice id="36">
+      <pos>(0.230292, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="37">
+      <pos>(-0.212847, -2.66611, 0.844127)</pos>
+    </Vertice>
+    <Vertice id="38">
+      <pos>(-0.188269, 2.64098, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="39">
+      <pos>(0.203333, 2.60479, 0.671666)</pos>
+    </Vertice>
+    <Vertice id="40">
+      <pos>(0.0849231, -0.871912, 0.597878)</pos>
+    </Vertice>
+    <Vertice id="41">
+      <pos>(-0.306344, -0.939311, 0.597878)</pos>
+    </Vertice>
+    <Vertice id="42">
+      <pos>(0.187807, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="43">
+      <pos>(-0.184992, -2.66611, 0.630311)</pos>
+    </Vertice>
+    <Vertice id="44">
+      <pos>(0.0461374, 2.08791, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="45">
+      <pos>(0.0978357, 2.35491, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="46">
+      <pos>(0.19369, 2.41655, 0.78179)</pos>
+    </Vertice>
+    <Vertice id="47">
+      <pos>(0.153476, 2.03475, 0.736533)</pos>
+    </Vertice>
+    <Vertice id="48">
+      <pos>(-0.175559, 2.23065, 0.787386)</pos>
+    </Vertice>
+    <Vertice id="49">
+      <pos>(-0.130812, 2.19183, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="50">
+      <pos>(0.0978357, 2.35491, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="51">
+      <pos>(0.19369, 2.41655, 0.78179)</pos>
+    </Vertice>
+    <Vertice id="52">
+      <pos>(0.00556707, -2.42709, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="53">
+      <pos>(0.0572656, -2.16009, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="54">
+      <pos>(0.15312, -2.09845, 0.740435)</pos>
+    </Vertice>
+    <Vertice id="55">
+      <pos>(-0.216129, -2.28435, 0.746031)</pos>
+    </Vertice>
+    <Vertice id="56">
+      <pos>(0.15312, -2.09845, 0.740435)</pos>
+    </Vertice>
+    <Vertice id="57">
+      <pos>(0.0572656, -2.16009, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="58">
+      <pos>(-0.171382, -2.32317, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="59">
+      <pos>(0.146605, -2.48025, 0.736533)</pos>
+    </Vertice>
+    <Vertice id="60">
+      <pos>(0.00556778, 0.719882, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="61">
+      <pos>(0.0572664, 0.986879, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="62">
+      <pos>(0.113499, 1.14578, 0.740435)</pos>
+    </Vertice>
+    <Vertice id="63">
+      <pos>(-0.216128, 0.959881, 0.746031)</pos>
+    </Vertice>
+    <Vertice id="64">
+      <pos>(0.113499, 1.14578, 0.740435)</pos>
+    </Vertice>
+    <Vertice id="65">
+      <pos>(0.0572664, 0.986879, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="66">
+      <pos>(-0.171382, 0.823804, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="67">
+      <pos>(0.106984, 0.763975, 0.736533)</pos>
+    </Vertice>
+    <Vertice id="68">
+      <pos>(-0.230717, -0.570907, -0.147819)</pos>
+    </Vertice>
+    <Vertice id="69">
+      <pos>(-0.0416585, -0.766399, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="70">
+      <pos>(-0.0461421, -0.880275, 0.708002)</pos>
+    </Vertice>
+    <Vertice id="71">
+      <pos>(-0.276209, -0.655944, 0.704099)</pos>
+    </Vertice>
+    <Vertice id="72">
+      <pos>(0.0133709, -0.471177, 0.713598)</pos>
+    </Vertice>
+    <Vertice id="73">
+      <pos>(-0.0440945, -0.485566, -0.143185)</pos>
+    </Vertice>
+    <Vertice id="74">
+      <pos>(-0.0416585, -0.766399, -0.146324)</pos>
+    </Vertice>
+    <Vertice id="75">
+      <pos>(-0.0461421, -0.880275, 0.708002)</pos>
+    </Vertice>
+  </Vertices>
+  <Views>
+  <Indices size="76">
+  </Indices>
+  <Triangles size="144">
+  </Triangles>
+  <Properties size="76">
+  </Properties>
+  <Subs size="1">
+  </Subs>
+	<RenderPasses size="1">
+	  <RenderPass id="0">
+      <indexStart>0</indexStart>
+      <indexCount>144</indexCount>
+      <vertexStart>0</vertexStart>
+      <vertexEnd>76</vertexEnd>
+      <tex>0</tex>
+      <texName>DUNGEONS\TEXTURES\FLOOR\MM_MINEPLANKS_02.BLP</texName>
+      <useTex2>0</useTex2>
+      <useEnvMap>0</useEnvMap>
+      <cull>1</cull>
+      <trans>0</trans>
+      <unlit>0</unlit>
+      <noZWrite>0</noZWrite>
+      <billboard>0</billboard>
+      <p>0.415683</p>
+      <texanim>-1</texanim>
+      <color>-1</color>
+      <opacity>0</opacity>
+      <blendmode>0</blendmode>
+      <geoset>0</geoset>
+      <swrap>1</swrap>
+      <twrap>1</twrap>
+      <ocol>(1, 1, 1, 1)</ocol>
+      <ecol>(0, 0, 0, 0)</ecol>
+	  </RenderPass>
+	</RenderPasses>
+	<Geosets size="1">
+	  <Geoset id="0">
+      <id>0</id>
+      <vstart>0</vstart>
+      <vcount>76</vcount>
+      <istart>0</istart>
+      <icount>144</icount>
+      <nSkinnedBones>1</nSkinnedBones>
+      <StartBones>0</StartBones>
+      <rootBone>0</rootBone>
+      <nBones>0</nBones>
+      <BoundingBox>(-0.016646, -0.0400105, 0.415683)</BoundingBox>
+      <BoundingBox>(-0.038026, -0.00164008, 0.368831)</BoundingBox>
+      <radius>2.721</radius>
+	  </Geoset>
+	</Geosets>
+	<TexUnits size="1">
+	  <TexUnit id="0">
+      <flags>16</flags>
+      <shading>0</shading>
+      <op>0</op>
+      <op2>0</op2>
+      <colorIndex>-1</colorIndex>
+      <flagsIndex>0</flagsIndex>
+      <texunit>0</texunit>
+      <mode>1</mode>
+      <textureid>0</textureid>
+      <texunit2>0</texunit2>
+      <transid>0</transid>
+      <texanimid>0</texanimid>
+	  </TexUnit>
+	</TexUnits>
+  </Views>
+  <RenderFlags></RenderFlags>
+	<Colors size="0">
+	</Colors>
+	<Transparency size="1">
+    <Tran id="0">
+    <trans>
+      <type>0</type>
+      <seq>-1</seq>
+      <anims>
+    <anim id="0" size="1">
+      <data time="0">1</data>
+    </anim>
+      </anims>
+    </trans>
+    </Tran>
+	</Transparency>
+  <TransparencyLookup></TransparencyLookup>
+	<Textures size="1">
+	  <Texture id="0">
+      <type>0</type>
+      <flags>3</flags>
+		<name>DUNGEONS\TEXTURES\FLOOR\MM_MINEPLANKS_02.BLP</name>
+	  </Texture>
+	</Textures>
+  <TexLookups size="1">
+    <TexLookup id="0">0</TexLookup>
+  </TexLookups>
+	<ReplacableTextureLookup></ReplacableTextureLookup>
+  </GeometryAndRendering>
+  <Effects>
+	<TexAnims size="0">
+	</TexAnims>
+	<RibbonEmitters></RibbonEmitters>
+	<Particles size="0">
+	</Particles>
+  </Effects>
+	<Miscellaneous>
+	<BoundingVolumes></BoundingVolumes>
+	<Lights></Lights>
+	<Cameras></Cameras>
+	<Attachments size="0">
+	</Attachments>
+  <AttachLookups size="0">
+  </AttachLookups>
+	<Events size="0">
+	</Events>
+	</Miscellaneous>
+  <TextureLists>
+    <TextureList id="0">DUNGEONS\TEXTURES\FLOOR\MM_MINEPLANKS_02.BLP</TextureList>
+  </TextureLists>
+</m2>
