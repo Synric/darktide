@@ -1,0 +1,5 @@
+C:/Externals/stormlib/win/CMakeFiles/ALL_BUILD.dir
+C:/Externals/stormlib/win/CMakeFiles/ZERO_CHECK.dir
+C:/Externals/stormlib/win/tests/hellofs/CMakeFiles/hellofs.dir
+C:/Externals/stormlib/win/mpqfs/CMakeFiles/mpqfs.dir
+C:/Externals/stormlib/win/tests/stormlib_console/CMakeFiles/stormlib_console.dir

@@ -1,0 +1,31 @@
+Hmm...  Looks like a unified diff to me...
+The text leading up to this was:
+--------------------------
+|diff -ipuwr -x config.log -x config.status -x config.cache -x '*.Po' -x '*.pot' -x '*.bak' -x '*.orig' -x '*.rej' -x '*.new' -x '*~' -x '*.o' -x '*.exe' -x patches -x '*.dll' -x'*.la' -x res -x debian -x '*.log' -x '*.lib' -x'*.a' -x .libs -x'*.def' -x'*.uu' -x'*.rc' -x'*.ico' -x'*.lo' ft2demos-2.3.4-orig/Makefile ft2demos-2.3.4/Makefile
+|--- ft2demos-2.3.4-orig/Makefile	2007-03-28 15:58:53.000000000 +0200
+|+++ ft2demos-2.3.4/Makefile	2007-06-26 21:28:22.795873700 +0200
+--------------------------
+Patching file Makefile using Plan A...
+Hunk #1 succeeded at 1.
+Hunk #2 succeeded at 26.
+Hunk #3 succeeded at 104.
+Hunk #4 succeeded at 131.
+Hunk #5 succeeded at 177.
+Hunk #6 succeeded at 204.
+Hunk #7 succeeded at 214.
+Hunk #8 succeeded at 237.
+Hunk #9 FAILED at 281.
+Hunk #10 FAILED at 455.
+Not setting time of file Makefile (time mismatch)
+2 out of 10 hunks FAILED -- saving rejects to file Makefile.rej
+Hmm...  The next patch looks like a unified diff to me...
+The text leading up to this was:
+--------------------------
+|diff -ipuwr -x config.log -x config.status -x config.cache -x '*.Po' -x '*.pot' -x '*.bak' -x '*.orig' -x '*.rej' -x '*.new' -x '*~' -x '*.o' -x '*.exe' -x patches -x '*.dll' -x'*.la' -x res -x debian -x '*.log' -x '*.lib' -x'*.a' -x .libs -x'*.def' -x'*.uu' -x'*.rc' -x'*.ico' -x'*.lo' ft2demos-2.3.4-orig/graph/x11/rules.mk ft2demos-2.3.4/graph/x11/rules.mk
+|--- ft2demos-2.3.4-orig/graph/x11/rules.mk	2006-12-10 07:30:59.000000000 +0100
+|+++ ft2demos-2.3.4/graph/x11/rules.mk	2007-06-26 19:29:23.156250000 +0200
+--------------------------
+Patching file graph/x11/rules.mk using Plan A...
+Hunk #1 succeeded at 1.
+Hunk #2 succeeded at 106.
+done
