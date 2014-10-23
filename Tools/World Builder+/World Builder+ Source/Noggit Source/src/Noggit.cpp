@@ -259,8 +259,110 @@ void Noggit::loadMPQs()
   asyncLoader->start(1);
 
   std::vector<std::string> archiveNames;
-  archiveNames.push_back( "common.MPQ" );
-  archiveNames.push_back( "common-2.MPQ" );
+  archiveNames.push_back( "" );
+  // Models
+  archiveNames.push_back("art.MPQ");
+  archiveNames.push_back("base-win.MPQ");
+  archiveNames.push_back("expansion1.MPQ");
+  archiveNames.push_back("expansion2.MPQ");
+  archiveNames.push_back("Expansion3.MPQ");
+  archiveNames.push_back("sound.MPQ");
+  archiveNames.push_back("world.MPQ");
+  archiveNames.push_back("world2.MPQ");
+  /* Usually the load would be done together to support future patches
+  but all patches have been released for Cata
+  and WoD will require a whole new loading system*/
+  archiveNames.push_back("wow-update-base15211.MPQ");
+  archiveNames.push_back("wow-update-base-15354.MPQ");
+  archiveNames.push_back("wow-update-base-15595.MPQ");
+  //Local
+  archiveNames.push_back("{locale}/expansion1-locale-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion1-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion2-locale-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion2-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion3-locale-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion3-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/locale-{locale}.MPQ");
+  archiveNames.push_back("{locale}/speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-15211.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-15354.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-15595.MPQ");
+
+  /* MISTS OF PANDARIA MPQs - Leaving this here incase I ever update to that.
+     Will also require a new way of tracking the localization, as the file
+	 Realmlist.wtf does not exist in Mists of Pandaria, but is now located in
+	 Interface/GlueXML/accountlogin.lua. Most likely just change the file that
+	 the system looks for to something else in the folder... Why am I writing
+	 this right now? Whose looking at this? Me? Future me? HI ME! Hows the 
+	 future? Did WoD turn out any good? How bout Batman v. Superman. I'm
+	 really looking forward to that. Did I get a new job? I could really 
+	 use a better paying job right now. It's getting really nice weather
+	 wise down here. I can't wait for a winter that isn't -50 windchills
+	 all goddamn season. WTF am I doing? I'll probably never look at this
+	 again. I should really go back to sleep. I'm an idiot. ANDDDDDDDDDDD
+	 Committed.
+  // Models
+  archiveNames.push_back( "alternate.MPQ" );
+  archiveNames.push_back( "base-Win.MPQ" );
+  archiveNames.push_back( "expansion1.MPQ" );
+  archiveNames.push_back( "expansion2.MPQ" );
+  archiveNames.push_back( "expansion3.MPQ" );
+  archiveNames.push_back( "expansion4.MPQ" );
+  archiveNames.push_back( "interface.MPQ" );
+  archiveNames.push_back( "itemtexture.MPQ" );
+  archiveNames.push_back( "misc.MPQ" );
+  archiveNames.push_back( "model.MPQ" );
+  archiveNames.push_back( "sound.MPQ" );
+  archiveNames.push_back( "texture.MPQ" );
+  archiveNames.push_back( "world" );
+
+  Usually the load would be done together to support future patches
+  but all patches have been released for Mists
+  and WoD will require a whole new loading system
+
+  archiveNames.push_back("wow-update-base-16016.MPQ");
+  archiveNames.push_back("wow-update-base-16048.MPQ");
+  archiveNames.push_back("wow-update-base-16057.MPQ");
+  archiveNames.push_back("wow-update-base-16309.MPQ");
+  archiveNames.push_back("wow-update-base-16357.MPQ");
+  archiveNames.push_back("wow-update-base-16516.MPQ");
+  archiveNames.push_back("wow-update-base-16650.MPQ");
+  archiveNames.push_back("wow-update-base-16844.MPQ");
+  archiveNames.push_back("wow-update-base-16965.MPQ");
+  archiveNames.push_back("wow-update-base-17116.MPQ");
+  archiveNames.push_back("wow-update-base-17266.MPQ");
+  archiveNames.push_back("wow-update-base-17325.MPQ");
+  archiveNames.push_back("wow-update-base-17345.MPQ");
+  archiveNames.push_back("wow-update-base-17538.MPQ");
+  archiveNames.push_back("wow-update-base-17646.MPQ");
+  archiveNames.push_back("wow-update-base-17688.MPQ");
+  //Local
+  archiveNames.push_back("{locale}/expansion1-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion2-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion3-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/expansion4-speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/locale-{locale}.MPQ");
+  archiveNames.push_back("{locale}/speech-{locale}.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16016.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16048.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16057.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16309.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16357.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16516.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16650.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16844.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-16965.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17116.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17266.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17325.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17345.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17538.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17646.MPQ");
+  archiveNames.push_back("{locale}/wow-update-{locale}-17688.MPQ");
+  END MISTS MPQS* /
+/*
+Leaving WOTLK here for posterity
+archiveNames.push_back( "common-2.MPQ" );
   archiveNames.push_back( "expansion.MPQ" );
   archiveNames.push_back( "lichking.MPQ" );
   archiveNames.push_back( "patch.MPQ" );
@@ -280,6 +382,7 @@ void Noggit::loadMPQs()
   archiveNames.push_back( "{locale}/patch-{locale}-{character}.MPQ" );
 
   archiveNames.push_back( "development.MPQ" );
+*/
 
   const char * locales[] = { "enGB", "enUS", "deDE", "koKR", "frFR", "zhCN", "zhTW", "esES", "esMX", "ruRU" };
   const char * locale( "****" );
